@@ -10,7 +10,7 @@ Refactoring is an integral part of a Software Engineer's responsibilities, makin
 
 <hr>
 <h3>Programming Languages Used For This Project</h3>
-🔶 HTML5<br>
-🔶 CSS3<br>
+☑️ HTML5<br>
+☑️ CSS3<br>
 <hr>
 
